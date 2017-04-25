@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 155 33" style="enable-background:new 0 0 155 33;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#254B23;}
+	.st2{font-family:'MyriadPro-Bold';}
+	.st3{font-size:23.4055px;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{fill:#254B23;stroke:#275B2D;stroke-miterlimit:10;}
+</style>
+<rect x="0.5" y="6.9" class="st0" width="72.7" height="24.6"/>
+<text transform="matrix(1 0 0 1 0.5264 23.564)" class="st1 st2 st3">Gareth</text>
+<rect x="82.4" y="7.9" class="st0" width="96.4" height="20"/>
+<text transform="matrix(1 0 0 1 82.3648 24.4732)" class="st1 st4 st3">Matson</text>
+<line class="st5" x1="77.8" y1="2" x2="77.8" y2="31.5"/>
+</svg>
