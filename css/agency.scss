@@ -1,6 +1,12 @@
 @import "variables.scss";
 @import "mixins.scss";
 
+@media (max-width:768px){
+        .navbar-brand{
+       width:70vw!important;
+      }
+    }
+
 // Global Components
 
 body {
